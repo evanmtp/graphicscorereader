@@ -24,7 +24,7 @@ Tested on Mac OS X Sierra running Ableton Live 9.9.7.
 
 On Live 10, please use **Max 8.0.3 or higher** as there are bugs related to Max 8.0.0. On Live 9, please use Max 7.3.5 or 7.3.6.
 
-**IMPORTANT NOTICE:_**
+**IMPORTANT NOTICE:**
 In both cases, please make sure to set Live to use an external Max application rather than the bundled version of Max. You can change this setting in Live via Preferences -> File Folder -> Max Application. The appropriate versions of Max can be downloaded from [cycling74.com](https://cycling74.com).
 
 ---
