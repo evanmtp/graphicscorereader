@@ -4,7 +4,7 @@ Developed by [Laboratoire son / matière](https://www.son-matiere.org/) (program
 
 ---
 
-Outils développé par le [Laboratoire son / matière](https://www.son-matiere.org/) (programmation: Evan Montpellier), **GSR** est un périphérique macOS Max for Live de lecture en temps réel de partitions graphiques, permettant de combiner la lecture à la puissance des fonctionnalités audio et MIDI du logiciel Ableton Live.
+Outils développé par le [Laboratoire son / matière](https://www.son-matiere.org/) (programmation: Evan Montpellier), **GSR** est un plugiciel macOS Max for Live de lecture en temps réel de partitions graphiques, permettant de combiner la lecture à la puissance des fonctionnalités audio et MIDI du logiciel Ableton Live.
 
 ## Releases
 
