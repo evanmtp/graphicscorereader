@@ -16,7 +16,7 @@ The latest release can be found [here](https://github.com/evanmtp/graphicscorere
 
 GSR est actuellement **bêta**, et ne doit être utilisé dans des scénarios de production qu’avec prudence. S'il vous plaît signaler tous les bugs en utilisant le suivi des problèmes.
 
-La dernière version peut être trouvée [ici] (https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0).
+La dernière version peut être trouvée [ici](https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0).
 
 ## System and Software Requirements / Exigences système et logiciel
 
