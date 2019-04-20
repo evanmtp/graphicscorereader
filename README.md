@@ -10,13 +10,13 @@ Outils développé par le [Laboratoire son / matière](https://www.son-matiere.o
 
 GSR is currently **beta software**, and should only be used in production scenarios with caution. Please report all bugs using the issue tracker.
 
-The latest release can be found [here](https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0).
+The latest release can be found [here](https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0.1).
 
 ---
 
 GSR est actuellement **bêta**, et ne doit être utilisé dans des scénarios de production qu’avec prudence. S'il vous plaît signaler tous les bugs en utilisant le suivi des problèmes.
 
-La dernière version peut être trouvée [ici](https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0).
+La dernière version peut être trouvée [ici](https://github.com/evanmtp/graphicscorereader/releases/tag/v1.0.1).
 
 ## System and Software Requirements / Exigences système et logiciel
 
