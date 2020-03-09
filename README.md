@@ -1,3 +1,4 @@
+![Graphic Score reader box](docs/Boite.png)
 # Graphic Score Reader
 
 Developed by [Laboratoire son / matière](https://www.son-matiere.org/) (programming: Evan Montpellier), **GSR** is a macOS Max for Live device for real-time scrolling of graphical score files, allowing score playback to be combined with the audio and MIDI features of Ableton Live.
