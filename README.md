@@ -1,23 +1,23 @@
 ![Graphic Score reader box](docs/Boite.png)
 # Graphic Score Reader
 
-Developed by [Laboratoire son / matière](https://www.son-matiere.org/) (programming: Evan Montpellier), **GSR** is a macOS Max for Live device for real-time scrolling of graphical score files, allowing score playback to be combined with the audio and MIDI features of Ableton Live.
+Developed by [Le Laboratoire formes•ondes (LFO)](https://lfo-lab.ca/) (programming: Evan Montpellier), **GSR** is a macOS Max for Live device for real-time scrolling of graphical score files, allowing score playback to be combined with the audio and MIDI features of Ableton Live.
 
 ---
 
-Outils développé par le [Laboratoire son / matière](https://www.son-matiere.org/) (programmation: Evan Montpellier), **GSR** est un plugiciel macOS Max for Live de lecture en temps réel de partitions graphiques, permettant de combiner la lecture à la puissance des fonctionnalités audio et MIDI du logiciel Ableton Live.
+Outils développé par [Le Laboratoire formes•ondes (LFO)](https://lfo-lab.ca/) (programmation: Evan Montpellier), **GSR** est un plugiciel macOS Max for Live de lecture en temps réel de partitions graphiques, permettant de combiner la lecture à la puissance des fonctionnalités audio et MIDI du logiciel Ableton Live.
 
 ## Releases
 
 GSR is currently **beta software**, and should only be used in production scenarios with caution. Please report all bugs using the issue tracker.
 
-The latest release can be found [here](https://github.com/evanmtp/graphicscorereader/releases/tag/1.1.0).
+The latest release can be found [here](https://github.com/evanmtp/graphicscorereader/releases/tag/1.2.0).
 
 ---
 
 GSR est actuellement **bêta**, et ne doit être utilisé dans des scénarios de production qu’avec prudence. S'il vous plaît signaler tous les bugs en utilisant le suivi des problèmes.
 
-La dernière version peut être trouvée [ici](https://github.com/evanmtp/graphicscorereader/releases/tag/1.1.0).
+La dernière version peut être trouvée [ici](https://github.com/evanmtp/graphicscorereader/releases/tag/1.2.0).
 
 ## System and Software Requirements / Exigences système et logiciel
 
@@ -39,5 +39,5 @@ Il est important de s’assurer que Live utilise une application Max externe plu
 
 ## Documentation
 
-- [English documentation](https://github.com/evanmtp/graphicscorereader/raw/master/docs/GSR_110_documentation-EN.pdf)
-- [Documentation française](https://github.com/evanmtp/graphicscorereader/raw/master/docs/GSR_110_documentation-FR.pdf)
+- [English documentation](https://github.com/evanmtp/graphicscorereader/raw/master/docs/GSR_120_documentation-EN.pdf)
+- [Documentation française](https://github.com/evanmtp/graphicscorereader/raw/master/docs/GSR_120_documentation-FR.pdf)
